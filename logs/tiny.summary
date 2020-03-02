@@ -1,0 +1,540 @@
+Web Server Log Analyzer v1.0raf
+
+Processed 240 entries from 1 files.
+Processed the following logfiles:
+tiny.log
+
+==============================================================================
+HOSTNAMES
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+     1   0.42   10.12.8.166                                                 
+     1   0.42   10.8.119.195                                                
+     1   0.42   10.8.18.135                                                 
+     1   0.42   10.8.28.188                                                 
+     1   0.42   10.8.64.105                                                 
+     1   0.42   10.sub-174-198-0.myvzw.com                                  
+     1   0.42   130.184.253.37                                              
+     1   0.42   137.48.177.107                                              
+     1   0.42   137.48.177.158                                              
+     1   0.42   137.48.185.108                                              
+     1   0.42   137.48.185.18                                               
+     1   0.42   137.48.185.250                                              
+     7   2.92   188-143-232-13.server.com                                   
+     2   0.83   188.143.232.10                                              
+     5   2.08   188.143.232.11                                              
+     6   2.50   188.143.232.14                                              
+     7   2.92   188.143.232.15                                              
+     2   0.83   188.143.232.16                                              
+     1   0.42   188.143.232.19                                              
+     9   3.75   188.143.232.21                                              
+    10   4.17   188.143.232.22                                              
+     5   2.08   188.143.232.24                                              
+     7   2.92   188.143.232.26                                              
+     3   1.25   188.143.232.34                                              
+     3   1.25   188.143.232.35                                              
+     5   2.08   188.143.232.37                                              
+     5   2.08   188.143.232.40                                              
+     4   1.67   188.143.232.41                                              
+     7   2.92   188.143.232.43                                              
+     5   2.08   188.143.232.62                                              
+    10   4.17   188.143.232.70                                              
+    10   4.17   188.143.232.72                                              
+     1   0.42   197.210.164.146                                             
+     1   0.42   197.210.226.58                                              
+     1   0.42   198.105.46.252                                              
+     1   0.42   205.144.215.143                                             
+     1   0.42   2E20282C.rev.sefiber.dk                                     
+     1   0.42   37.25.87.212                                                
+     1   0.42   38.110.199.182                                              
+     1   0.42   41.58.239.101                                               
+     1   0.42   46.33.156.78                                                
+     1   0.42   50-77-141-186-static.hfc.comcastbusiness.net                
+     1   0.42   66-162-36-98.static.twtelecom.net                           
+     2   0.83   7.suny.dynamic.apogeeetelecom.com                           
+     1   0.42   75-135-55-146.dhcp.krny.ne.charter.com                      
+     1   0.42   78.111.169.50                                               
+     1   0.42   78.sub-198-223-242.myvzw.com                                
+     1   0.42   8.37.232.74                                                 
+     1   0.42   93-103-209-7.dynamic.t-2.net                                
+     1   0.42   aua.httpint.globe.com.ph                                    
+     1   0.42   baiduspider-180-76-15-12.crawl.baidu.com                    
+     1   0.42   baiduspider-180-76-15-148.crawl.baidu.com                   
+     1   0.42   baiduspider-180-76-15-162.crawl.baidu.com                   
+     1   0.42   c-69-248-136-204.hsd1.nj.comcast.net                        
+     1   0.42   c-76-125-210-137.hsd1.pa.comcast.net                        
+     1   0.42   car.httpint.globe.com.ph                                    
+     1   0.42   cm-dhcp-173-46-226-187.bloombroadband.com                   
+     1   0.42   cpc90876-king11-2-0-cust219.19-1.cable.virginm.net          
+     1   0.42   crawl-66-249-65-20.googlebot.com                            
+     1   0.42   crawl-66-249-69-40.googlebot.com                            
+     1   0.42   crawl-66-249-73-171.googlebot.com                           
+     2   0.83   dr-marvin.w3.org                                            
+     1   0.42   dr-monroe.w3.org                                            
+     4   1.67   dr-riviera.w3.org                                           
+     2   0.83   dr-wolfe.w3.org                                             
+     1   0.42   dsl.49.150.137.87.pldt.net                                  
+     1   0.42   google-proxy-66-102-7-156.google.com                        
+     1   0.42   google-proxy-66-249-80-23.google.com                        
+     1   0.42   h11.163.23.98.static.ip.windstream.net                      
+     3   1.25   h21.163.23.98.static.ip.windstream.net                      
+     1   0.42   h31.163.23.98.static.ip.windstream.net                      
+     1   0.42   host.my-tss.com                                             
+     1   0.42   host31-49-186-241.range31-49.btcentralplus.com              
+     1   0.42   ip174-71-41-29.om.om.cox.net                                
+     1   0.42   ip68-13-27-133.om.om.cox.net                                
+     1   0.42   ip68-13-76-41.om.om.cox.net                                 
+     1   0.42   ip68-99-19-121.om.om.cox.net                                
+     1   0.42   ip72-196-13-13.om.om.cox.net                                
+     1   0.42   ip72-203-80-227.oc.oc.cox.net                               
+     1   0.42   ip72-206-115-234.om.om.cox.net                              
+     1   0.42   krustofski.w3.org                                           
+     1   0.42   krusty.w3.org                                               
+     1   0.42   lnx-sa-firefox1.sblo.ch                                     
+    14   5.83   loki.ist.unomaha.edu                                        
+     1   0.42   msnbot-157-55-39-80.search.msn.com                          
+     1   0.42   mta-107-12-241-67.triad.rr.com                              
+     1   0.42   nat-service.aws.kontera.com                                 
+     1   0.42   newton.k12.ks.us                                            
+     1   0.42   pool-173-73-96-75.washdc.fios.verizon.net                   
+    22   9.17   qualys.unomaha.edu                                          
+     3   1.25   sn158.s02.sjc01.qualys.com                                  
+     2   0.83   sn232.s02.sjc01.qualys.com                                  
+     5   2.08   sn343.s01.sea01.qualys.com                                  
+     3   1.25   sn432.s01.sea01.qualys.com                                  
+     1   0.42   static-ip-208-88-72-121.net-208-88-72-0.rdns.managed.com    
+     1   0.42   vc-nat-gp-s-41-13-14-223.umts.vodacom.co.za                 
+ -----
+   240 entries displayed
+
+
+==============================================================================
+DOMAINS
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+   127  52.92   DOTTED QUAD OR OTHER                                        
+     2   0.83   apogeeetelecom.com                                          
+     3   1.25   baidu.com                                                   
+     1   0.42   bloombroadband.com                                          
+     1   0.42   btcentralplus.com                                           
+     1   0.42   charter.com                                                 
+     1   0.42   co.za                                                       
+     2   0.83   com.ph                                                      
+     2   0.83   comcast.net                                                 
+     1   0.42   comcastbusiness.net                                         
+     7   2.92   cox.net                                                     
+     2   0.83   google.com                                                  
+     3   1.25   googlebot.com                                               
+     1   0.42   kontera.com                                                 
+     1   0.42   ks.us                                                       
+     1   0.42   managed.com                                                 
+     1   0.42   msn.com                                                     
+     1   0.42   my-tss.com                                                  
+     2   0.83   myvzw.com                                                   
+     1   0.42   pldt.net                                                    
+    13   5.42   qualys.com                                                  
+     1   0.42   rr.com                                                      
+     1   0.42   sblo.ch                                                     
+     1   0.42   sefiber.dk                                                  
+     7   2.92   server.com                                                  
+     1   0.42   t-2.net                                                     
+     1   0.42   twtelecom.net                                               
+    36  15.00   unomaha.edu                                                 
+     1   0.42   verizon.net                                                 
+     1   0.42   virginm.net                                                 
+    11   4.58   w3.org                                                      
+     5   2.08   windstream.net                                              
+ -----
+   240 entries displayed
+
+
+==============================================================================
+DATES
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+     2   0.83   01/Oct/2016                                                 
+     4   1.67   01/Sep/2016                                                 
+     1   0.42   02/Oct/2016                                                 
+     4   1.67   02/Sep/2016                                                 
+     4   1.67   03/Oct/2016                                                 
+     7   2.92   03/Sep/2016                                                 
+     2   0.83   04/Oct/2016                                                 
+     4   1.67   04/Sep/2016                                                 
+     2   0.83   05/Oct/2016                                                 
+     7   2.92   05/Sep/2016                                                 
+     3   1.25   06/Oct/2016                                                 
+     4   1.67   06/Sep/2016                                                 
+     2   0.83   07/Oct/2016                                                 
+     2   0.83   07/Sep/2016                                                 
+     1   0.42   08/Oct/2016                                                 
+     3   1.25   08/Sep/2016                                                 
+     2   0.83   09/Sep/2016                                                 
+     1   0.42   10/Oct/2016                                                 
+     1   0.42   10/Sep/2016                                                 
+     6   2.50   11/Oct/2016                                                 
+     1   0.42   11/Sep/2016                                                 
+     3   1.25   12/Oct/2016                                                 
+     2   0.83   12/Sep/2016                                                 
+     2   0.83   13/Oct/2016                                                 
+     7   2.92   13/Sep/2016                                                 
+     2   0.83   14/Oct/2016                                                 
+     3   1.25   14/Sep/2016                                                 
+     4   1.67   15/Aug/2016                                                 
+     1   0.42   15/Oct/2016                                                 
+     3   1.25   15/Sep/2016                                                 
+     7   2.92   16/Aug/2016                                                 
+     2   0.83   16/Oct/2016                                                 
+     2   0.83   16/Sep/2016                                                 
+     7   2.92   17/Aug/2016                                                 
+     1   0.42   17/Sep/2016                                                 
+     7   2.92   18/Aug/2016                                                 
+     1   0.42   18/Sep/2016                                                 
+     8   3.33   19/Aug/2016                                                 
+     5   2.08   19/Sep/2016                                                 
+     7   2.92   20/Aug/2016                                                 
+     3   1.25   20/Sep/2016                                                 
+     9   3.75   21/Aug/2016                                                 
+     3   1.25   21/Sep/2016                                                 
+     9   3.75   22/Aug/2016                                                 
+     3   1.25   22/Sep/2016                                                 
+     9   3.75   23/Aug/2016                                                 
+     3   1.25   23/Sep/2016                                                 
+     5   2.08   24/Aug/2016                                                 
+     2   0.83   24/Sep/2016                                                 
+     3   1.25   25/Aug/2016                                                 
+     1   0.42   25/Sep/2016                                                 
+     6   2.50   26/Aug/2016                                                 
+     2   0.83   26/Sep/2016                                                 
+     6   2.50   27/Aug/2016                                                 
+     9   3.75   27/Sep/2016                                                 
+     3   1.25   28/Aug/2016                                                 
+     2   0.83   28/Sep/2016                                                 
+     6   2.50   29/Aug/2016                                                 
+     3   1.25   29/Sep/2016                                                 
+     9   3.75   30/Aug/2016                                                 
+     3   1.25   30/Sep/2016                                                 
+     4   1.67   31/Aug/2016                                                 
+ -----
+   240 entries displayed
+
+
+==============================================================================
+HOURS
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+     8   3.33   00                                                          
+     7   2.92   01                                                          
+     8   3.33   02                                                          
+    19   7.92   03                                                          
+    10   4.17   04                                                          
+     6   2.50   05                                                          
+     9   3.75   06                                                          
+     6   2.50   07                                                          
+    12   5.00   08                                                          
+     8   3.33   09                                                          
+     6   2.50   10                                                          
+    13   5.42   11                                                          
+     3   1.25   12                                                          
+    11   4.58   13                                                          
+    16   6.67   14                                                          
+    10   4.17   15                                                          
+     8   3.33   16                                                          
+     9   3.75   17                                                          
+    13   5.42   18                                                          
+    10   4.17   19                                                          
+    15   6.25   20                                                          
+     7   2.92   21                                                          
+     6   2.50   22                                                          
+    20   8.33   23                                                          
+ -----
+   240 entries displayed
+
+
+==============================================================================
+STATUS CODES
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+   187  77.92   200                                                         
+    14   5.83   304                                                         
+     1   0.42   403                                                         
+    18   7.50   404                                                         
+    20   8.33   500                                                         
+ -----
+   240 entries displayed
+
+
+==============================================================================
+URLS
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+     6   2.50   /                                                           
+     1   0.42   /1300/examples/2503.html                                    
+     1   0.42   /CFIDE/bad397/                                              
+     1   0.42   /Gemitel/programme/                                         
+     1   0.42   /RDWeb/Pages/en-US/                                         
+     1   0.42   /WorkArea/phptest.php3                                      
+     1   0.42   /apple-touch-icon-precomposed.png                           
+     1   0.42   /apple-touch-icon.png                                       
+     1   0.42   /bbryant                                                    
+     1   0.42   /catalog/extras/                                            
+     1   0.42   /cms/index.php/component/                                   
+     1   0.42   /cms/install/                                               
+     1   0.42   /comersus/bad397/                                           
+     1   0.42   /esp?PAGE=cfyz                                              
+     7   2.92   /favicon.ico                                                
+     1   0.42   /gallery1.4pl1/setup/                                       
+     1   0.42   /gfx/greyblu/interface/panelshadow.gif                      
+     1   0.42   /includes/sifr/js/                                          
+     1   0.42   /index.vm                                                   
+     1   0.42   /install.php                                                
+     1   0.42   /livredor/                                                  
+     1   0.42   /mailobj1.nsf                                               
+     1   0.42   /manager/w3-msql                                            
+     1   0.42   /minibb-1.2/                                                
+     1   0.42   /mnogosearch-3.1.19/                                        
+     1   0.42   /moin_static180beta3/modern/css/msie.css                    
+     1   0.42   /mybb/                                                      
+     1   0.42   /ossim/session/                                             
+     1   0.42   /phorecast/common/stylesheet.php                            
+     1   0.42   /q79w_38jg__.shtml                                          
+     1   0.42   /recipe/imagemap.exe                                        
+     1   0.42   /recipe/recipe/recipe/recipe/                               
+     1   0.42   /recipe/recipe/sdbsearch_cz.cgi                             
+     1   0.42   /report4.nsf                                                
+     1   0.42   /rweb/img10/rweb_pb.gif                                     
+     1   0.42   /tavi-0.20/bad397/                                          
+     1   0.42   /tng/scripts/                                               
+     1   0.42   /twiki/                                                     
+     1   0.42   /xampp/quicksilverforums/bad397/                            
+     1   0.42   /~aebauer/a6/index.html                                     
+     1   0.42   /~afuchsberger/cist1300/syllabus/                           
+     1   0.42   /~aghermanek/                                               
+     1   0.42   /~ahermanek/a1                                              
+     1   0.42   /~ahermanek/a2/                                             
+     1   0.42   /~ahermanek/a3/pagethree.html                               
+     1   0.42   /~ahermanek/a3/pagetwo.html                                 
+     1   0.42   /~amontano/a8/index.html                                    
+     1   0.42   /~bchawla/                                                  
+     1   0.42   /~bchawla/HonorsProgram/extracredit.html                    
+     1   0.42   /~bchawla/a2/                                               
+     1   0.42   /~bchawla/a3/pagetwo.html                                   
+     1   0.42   /~cghahn/1474768880+19806.php                               
+     1   0.42   /~cghahn/index.html                                         
+     1   0.42   /~chschmitt/                                                
+     1   0.42   /~chussmann/1476128500+5470.php                             
+     1   0.42   /~chussmann/a6/pagetwo.html                                 
+     1   0.42   /~cratzburg/secondpage.html                                 
+     1   0.42   /~dmarupov/1474671201+32350.php                             
+     1   0.42   /~fatuluku/                                                 
+     1   0.42   /~fatuluku/a6/index.html                                    
+     1   0.42   /~gbautista/a2/                                             
+     1   0.42   /~hperry/a5/pagetwo.html                                    
+     1   0.42   /~janicefink/a3/                                            
+     1   0.42   /~jbarreramendoza/                                          
+     1   0.42   /~jbarreramendoza/a3/                                       
+     1   0.42   /~jbarreramendoza/index.html                                
+     1   0.42   /~jblackmore/blizz/position/sample8.html                    
+     1   0.42   /~jblackmore/fall16-2/index5.html                           
+    16   6.67   /~jemoseman/project/FAQ.html                                
+    18   7.50   /~jemoseman/project/cgi-bin/forum.cgi                       
+    17   7.08   /~jemoseman/project/cgi-bin/thread.cgi?thread_name=Theory%20of%20computation%20homework%20fun%20time
+    23   9.58   /~jemoseman/project/contact_info.html                       
+    24  10.00   /~jemoseman/project/index.html                              
+    15   6.25   /~jemoseman/project/info.html                               
+     1   0.42   /~jgombold/a4/pagethree.html                                
+     1   0.42   /~jkolson/                                                  
+     1   0.42   /~jpenn/index.html                                          
+     1   0.42   /~jsly/1475770198+16734.php                                 
+     1   0.42   /~jstratman/1474686361+7971.php                             
+     1   0.42   /~jtrimm/project/3x3.html                                   
+     9   3.75   /~jtrimm/project/4x4.html                                   
+     2   0.83   /~jtrimm/project/css/normalize.css                          
+     2   0.83   /~jtrimm/project/images/dedgepair2.png                      
+     1   0.42   /~jtrimm/project/images/edgelineup.png                      
+     1   0.42   /~jtrimm/project/images/r.png                               
+     2   0.83   /~jtrimm/project/images/topcases.png                        
+     1   0.42   /~jtrimm/project/images/turnnotation.png                    
+     5   2.08   /~jtrimm/project/ollpll.html                                
+     1   0.42   /~karrensmith/project2/images/Otten_1.jpg                   
+     1   0.42   /~knielsen/project2/                                        
+     1   0.42   /~llira/a6/index.html                                       
+     1   0.42   /~mcarlson/a4/index.html                                    
+     1   0.42   /~mtwheeler/                                                
+     1   0.42   /~ncentenolima/a7/pagethree.html                            
+     1   0.42   /~nmcmains/a4/files/RvB_E03.mp4                             
+     1   0.42   /~psingh/1474040525+25725.php                               
+     1   0.42   /~qhenderson/a6/pagetwo.html                                
+     1   0.42   /~rickyflores/a4/                                           
+     1   0.42   /~rickyflores/a7/pagethree.html                             
+     1   0.42   /~robertjanderson/Missy/                                    
+     1   0.42   /~tellenwood/1474411428+15500.php                           
+     1   0.42   /~tellenwood/practice/try.html                              
+     1   0.42   /~twjorgensen/a3/pagetwo                                    
+     1   0.42   /~vhho/a5/pagetwo.html                                      
+     1   0.42   /~wcarrier/a9/pagetwo.html                                  
+     1   0.42   /~wphillips/                                                
+     1   0.42   /~ybautista/a5/css/my.css                                   
+ -----
+   240 entries displayed
+
+
+==============================================================================
+FILE TYPES
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+    36  15.00   CGI Program (cgi)                                           
+    19   7.92   Image (jpg,jpeg,gif,ico,png)                                
+    63  26.25   Other                                                       
+     4   1.67   Style Sheet (CSS)                                           
+   118  49.17   Web Pages (htm,html)                                        
+ -----
+   240 entries displayed
+
+
+==============================================================================
+BROWSERS
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+     1   0.42   Googlebot-Image/1.0                                         
+     1   0.42   Jigsaw/2.3.0 W3C_CSS_Validator_JFouffa/2.0 (See <http://validator.w3.org/services>)
+   113  47.08   Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)     
+     1   0.42   Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Win64; x64; Trident/7.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E; ms-office)
+     1   0.42   Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI Y360-U72 Build/HUAWEIY360-U72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.109 Mobile Safari/537.36
+     1   0.42   Mozilla/5.0 (Linux; Android 5.0; SM-G900V Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36
+     1   0.42   Mozilla/5.0 (Linux; Android 6.0.1; 2PQ93 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.81 Mobile Safari/537.36
+     1   0.42   Mozilla/5.0 (Linux; Android 6.0; F3311 Build/37.0.A.1.151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.97 Mobile Safari/537.36
+     1   0.42   Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; SHV-E160K/KKJNE4 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
+     1   0.42   Mozilla/5.0 (Linux; U; Android 4.4.4; en-US; HM 1S Build/KTU84P) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.10.8.820 U3/0.8.0 Mobile Safari/534.30
+     1   0.42   Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25
+     2   0.83   Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+     1   0.42   Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+     1   0.42   Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko)
+     1   0.42   Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.7 (KHTML, like Gecko) Version/9.1.2 Safari/601.7.7
+     1   0.42   Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/601.7.8
+     1   0.42   Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36
+     1   0.42   Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+     2   0.83   Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+     2   0.83   Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+     2   0.83   Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393
+     5   2.08   Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+     5   2.08   Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+     1   0.42   Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+     2   0.83   Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+     1   0.42   Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36
+     1   0.42   Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+     2   0.83   Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36
+     1   0.42   Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+     1   0.42   Mozilla/5.0 (Windows NT 6.1; WOW64; rv:46.0) Gecko/20100101 Firefox/46.0
+     1   0.42   Mozilla/5.0 (Windows NT 6.1; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0
+     1   0.42   Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+     1   0.42   Mozilla/5.0 (Windows NT 6.2; ARM; Trident/7.0; Touch; rv:11.0; WPDesktop; NOKIA; Lumia 530) like Gecko
+     1   0.42   Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36
+     1   0.42   Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+     1   0.42   Mozilla/5.0 (Windows NT 6.3; WOW64; rv:43.0) Gecko/20100101 Firefox/43.0
+     1   0.42   Mozilla/5.0 (Windows Phone 10.0; Android 6.0.1; Microsoft; Lumia 535) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Mobile Safari/537.36 Edge/14.14393
+     2   0.83   Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+     1   0.42   Mozilla/5.0 (X11; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0
+     3   1.25   Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+     1   0.42   Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+     1   0.42   Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+     1   0.42   Mozilla/5.0 (iPad; CPU OS 10_0_1 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A403 Safari/602.1
+     1   0.42   Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1
+     1   0.42   Mozilla/5.0 (iPhone; CPU iPhone OS 10_0 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/14A346 Safari/602.1
+     2   0.83   Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13G36 Safari/601.1
+    36  15.00   NO BROWSER ID                                               
+     1   0.42   SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+     1   0.42   Safari/11601.4.4 CFNetwork/760.2.6 Darwin/15.3.0 (x86_64)   
+     1   0.42   Safari/11601.6.17 CFNetwork/760.5.1 Darwin/15.5.0 (x86_64)  
+     1   0.42   Safari/11601.7.7 CFNetwork/760.6.3 Darwin/15.6.0 (x86_64)   
+     7   2.92   Validator.nu/LV http://validator.w3.org/services            
+     3   1.25   W3C_Validator/1.3 http://validator.w3.org/services          
+    14   5.83   curl/7.22.0 (x86_64-pc-linux-gnu) libcurl/7.22.0 OpenSSL/1.0.1 zlib/1.2.3.4 libidn/1.23 librtmp/2.3
+ -----
+   240 entries displayed
+
+
+==============================================================================
+BROWSER FAMILIES
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+    38  15.83   Chrome                                                      
+     4   1.67   Firefox                                                     
+   114  47.50   MSIE                                                        
+    13   5.42   Safari                                                      
+    71  29.58   Unknown                                                     
+ -----
+   240 entries displayed
+
+
+==============================================================================
+REFERRERS
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+   223  92.92   NO REFERER                                                  
+     1   0.42   http://www.bing.com/images/search?q=algorithm%ee%80%81+to+solve+2+sided+%ee%80%80rubik%27s+cube&view=detailv2&&id=293284D8FD18FDCFE991828B52FC9AFECB46404C&selectedIndex=36&ccid=hQ5MTdlG&simid=608039659467835721&thid=OIP.M850e4c4dd94603acd804ccf5c7575bdfo0&mode=overlay
+     1   0.42   http://www.google.co.za/                                    
+     1   0.42   http://www.google.com.ph/search?client=ms-android-kt-kr&biw=400&bih=348&site=webhp&ei=gV3RV_XoGYG-0ATw-JqQCA&q=4x4+rubiks+cube+terminology&oq=4x4+rubiks+cube+terminology&gs_l=mobile-gws-serp.3..0i13k1.18553.37829.0.38751.36.32.4.6.6.0.859.13694.3-1j15j9j2.27.0....0...1.1.64.mobile-gws-serp..9.27.9045.3..41j0i67k1j0i8i13i30k1j0i10k1j0i22i10i30k1j0i22i30k1.6NGAg4KJO5U
+     1   0.42   https://www.bing.com/                                       
+     2   0.83   https://www.google.co.uk/                                   
+     1   0.42   https://www.google.com.ng/                                  
+     8   3.33   https://www.google.com/                                     
+     1   0.42   https://www.google.com/m?q=tutorial+rubik+4x4               
+     1   0.42   https://www.google.dk/                                      
+ -----
+   240 entries displayed
+
+
+==============================================================================
+REFERRERS' DOMAINS
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+   223  92.92   NONE                                                        
+     2   0.83   bing.com                                                    
+     2   0.83   co.uk                                                       
+     1   0.42   co.za                                                       
+     1   0.42   com.ng                                                      
+     1   0.42   com.ph                                                      
+     9   3.75   google.com                                                  
+     1   0.42   google.dk                                                   
+ -----
+   240 entries displayed
+
+
+==============================================================================
+OPERATING SYSTEMS
+==============================================================================
+
+  Hits  %-age   Resource                                                    
+  ----  -----   --------                                                    
+    23   9.58   Linux                                                       
+    13   5.42   Macintosh                                                   
+    57  23.75   Other                                                       
+   147  61.25   Windows                                                     
+ -----
+   240 entries displayed
+
+
+Total bytes served    = 21769370
+
